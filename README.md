@@ -5,7 +5,7 @@ The code in this repo scraped a list of available movies, and fetched info from 
 The streaming websites supported were Italy-based, and today they may not exist and their interface is most probably different.
 I am keeping the repo up just for historical fun.
 
-# Sky On Demand - Scraper   
+# Original README   
 
 I found SkyOnDemand's UI really difficoult to use. I mainly want to be able to sort the available movies by online ranking (like IMDB, TMDB and so on).
 
