@@ -1,3 +1,10 @@
+This repository contains some quite old custom code that I used to make my streaming life easier. 
+I had one problem: the interface of streaming websites did not contain any information on the quality of a movie, so it was not possible to just log in, filter by "good movies", and pick randomly! 
+The code in this repo scraped a list of available movies, and fetched info from [https://www.themoviedb.org](TMDB) for quality scores.
+
+The streaming websites supported were Italy-based, and today they may not exist and their interface is most probably different.
+I am keeping the repo up just for historical fun.
+
 # Sky On Demand - Scraper   
 
 I found SkyOnDemand's UI really difficoult to use. I mainly want to be able to sort the available movies by online ranking (like IMDB, TMDB and so on).
